@@ -4,7 +4,7 @@ This project is a web application built using Flask that allows users to scrape 
 
 ## Features
 
-- Users can enter a search term to scrape images from a specific source.
+- Users can enter a search term to scrape images from google.
 - The scraped images are saved in a local folder for later access.
 - The scraped images are also stored in a MongoDB database for persistence.
 
